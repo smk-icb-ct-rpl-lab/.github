@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🏛️ SMK ICB CT RPL LAB
-### Rekayasa Perangkat Lunak - SMK ICB Cinta Teknika Bandung
+# JAK'S DUNGEON LAB
+### Rekayasa Perangkat Lunak
 
 <p>
-  Pusat pembelajaran praktik, riset mini, dan inkubasi proyek perangkat lunak siswa Rekayasa Perangkat Lunak (RPL) SMK ICB Cinta Teknika.
+  Pusat pembelajaran praktik, riset mini, dan inkubasi proyek perangkat lunak siswa Rekayasa Perangkat Lunak (RPL).
 </p>
 
 [![Status](https://img.shields.io/badge/Status-Active_Learning_Lab-0284C7?style=flat-square)](#)
@@ -50,5 +50,5 @@ Laboratorium ini dirancang untuk menjembatani teori kurikulum dengan standar ind
 2. **Commit Message Standar:** Terapkan format pesan commit yang jelas (contoh: `feat: tambah halaman login`, `fix: perbaiki validasi form`).
 
 <div align="center">
-  <sub>Dikelola oleh Tim Pengajar Software Engineering — SMK ICB Cinta Teknika Bandung</sub>
+  <sub>Dikelola oleh Razaq Himawan</sub>
 </div>
