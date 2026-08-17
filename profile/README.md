@@ -35,14 +35,14 @@ Laboratorium ini dirancang untuk menjembatani teori kurikulum dengan standar ind
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,php,laravel,nodejs,py,flutter,dart,mysql,postgres,git,github,vscode,postman,figma&theme=dark" alt="Lab Tech Stack" />
 </div>
-
 ### Jalur Belajar
 
 | Kelas | Topik Utama | Kebutuhan Perangkat (*Tools*) | Modul MkDocs |
-| :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- |
 | **Kelas X** | Coming Soon | Coming Soon | Coming Soon |
-| **Kelas XI** | Coming Soon | Coming Soon | Coming Soon |
+| **Kelas XI** | 1. Dart Programming<br>2. Flutter Dasar | VS Code, Flutter SDK, Emulator / HP Android | [🔗 Modul Dart Programming](https://jaks-dungeon-lab.github.io/xi-modul-dart-programming/)<br>[🔗 Modul Flutter Dasar](https://jaks-dungeon-lab.github.io/xi-modul-flutter-dasar/) |
 | **Kelas XII** | Coming Soon | Coming Soon | Coming Soon |
+
 
 ### Panduan untuk Siswa & Kontributor
 
