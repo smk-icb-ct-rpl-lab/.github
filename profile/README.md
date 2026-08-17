@@ -35,6 +35,7 @@ Laboratorium ini dirancang untuk menjembatani teori kurikulum dengan standar ind
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,php,laravel,nodejs,py,flutter,dart,mysql,postgres,git,github,vscode,postman,figma&theme=dark" alt="Lab Tech Stack" />
 </div>
+
 ### Jalur Belajar
 
 | Kelas | Topik Utama | Kebutuhan Perangkat (*Tools*) | Modul MkDocs |
